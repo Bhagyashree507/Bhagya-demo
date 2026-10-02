@@ -1,4 +1,4 @@
 # Bhagya-demo
-this is my repository on Git Hub.
+This is my First repository on Git Hub.
 <br>
 Name: Bhagyashree Rout.
